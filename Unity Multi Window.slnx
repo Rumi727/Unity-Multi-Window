@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="T:/C++/Unity Multi Window/Multi Window D3D11/Multi Window D3D11.vcxproj" Id="bf38e440-ffe5-4c5c-a2c0-4d1e5418459b" />
+  <Project Path="T:/C++/Unity Multi Window/Multi Window GL/Multi Window GL.vcxproj" Id="1dcd411a-194d-4ee6-8390-5a94e0bb4961" />
+  <Project Path="T:/C++/Unity Multi Window/Multi Window Linux/Multi Window Linux.vcxproj" Id="a3354111-0ed9-4152-a58f-fa76401244eb">
+    <Platform Solution="*|x86" Project="x86" />
+    <Deploy />
+  </Project>
+</Solution>
